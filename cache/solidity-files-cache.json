@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "A:\\Projects\\MDCN\\Contracts\\MDCNCommand.sol": {
+      "lastModificationDate": 1744486008534,
+      "contentHash": "82a76de13574b46bbd7c321b0a06c0bb",
+      "sourceName": "Contracts/MDCNCommand.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MDCNCommand"
+      ]
+    },
+    "A:\\Projects\\MDCN\\Contracts\\MDCNCoordination.sol": {
+      "lastModificationDate": 1744663425058,
+      "contentHash": "d5b33461c891b86df551b9be101330c3",
+      "sourceName": "Contracts/MDCNCoordination.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MDCNCoordination"
+      ]
+    },
+    "A:\\Projects\\MDCN\\Contracts\\MDCNTactical.sol": {
+      "lastModificationDate": 1744570446600,
+      "contentHash": "a58be1bb64153fa4a6decd5541030a4a",
+      "sourceName": "Contracts/MDCNTactical.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MDCNTactical"
+      ]
+    }
+  }
+}
